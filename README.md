@@ -16,7 +16,7 @@ Shirleys slides - https://slides.com/shirleywu/fm-d3intro#/
 - Log in and use during the course - http://blockbuilder.org/
 - https://bl.ocks.org/sxywu
 
-#API reference
+## API reference
 * Lesson 01 - http://blockbuilder.org/Christianq010/5a3a6ab7b5c92de2e4d33100b9e2bc77
 
 ## Build Setup
